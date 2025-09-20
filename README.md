@@ -13,4 +13,6 @@ Praticar a estruturação básica de páginas em HTML, utilizando cabeçalho, ro
 ## 📝 O que há no Projeto
 - Cabeçalho (`<header>`) com menu de navegação (`<nav>`).  
 - Seção principal (`<section>`) com biografia.  
-- Rodapé (`<footer>`) com informações adicionais.  
+- Rodapé (`<footer>`) com informações adicionais.
+
+- [Para acessar o site](https://annaellycavitoria.github.io/PROJETO1---WEB-I/)
